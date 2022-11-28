@@ -5,7 +5,6 @@
 - 🍕 Favorite food: pizza
 - 🍵 Favorite drink: matcha
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=liljafreja&show_icons=true&hide_title=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liljafreja&layout=compact&exclude_repo=liljafreja.github.io&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Codewars profile](https://www.codewars.com/users/liljafreja/badges/large)](https://www.codewars.com/users/liljafreja)
