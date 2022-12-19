@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liljafreja
 - 👀 I’m interested in backend, data science and engineering, cybersecurity
-- 🌱 I’m currently learning backend developement
+- 🌱 I’m currently learning backend developement & rust
 - 🌸 Pronouns: she/her
 - 🍕 Favorite food: pizza
 - 🍵 Favorite drink: matcha
