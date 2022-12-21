@@ -4,7 +4,7 @@
 - 🌸 Pronouns: she/her
 - 🍕 Favorite food: pizza
 - 🍵 Favorite drink: matcha
-- 🧘‍♀️ Favorite activity: pilates
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liljafreja&layout=compact&exclude_repo=liljafreja.github.io&langs_count=100)](https://github.com/anuraghazra/github-readme-stats)
 
