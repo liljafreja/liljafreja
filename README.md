@@ -6,7 +6,7 @@
 - 🍵 Favorite drink: matcha
 <br/>
 <a href="https://github.com/ashish-kamboj/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liljafreja&layout=compact&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liljafreja&layout=compact&langs_count=100" />
 </a>
 <br/>
 <br/>
