@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend, data science and engineering, cybersecurity
 - 🌱 I’m currently learning backend developement
 - 🌸 Pronouns: she/her
-- 🍕 Favorite food: pizza
+- 🍕 Favorite food: sourdough pizza
 - 🍵 Favorite drink: matcha
 
 [![Codewars profile](https://www.codewars.com/users/liljafreja/badges/large)](https://www.codewars.com/users/liljafreja)
